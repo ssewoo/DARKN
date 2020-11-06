@@ -2,22 +2,22 @@
 body {
    margin: 0;
    font-family: 'NanumSquare', sans-serif !important;
-   background: #262629;
+   background: #fafcff;
 }
 .top {
   padding: 0;
   width: screen;
   height: 100px;
-  background: black;
+  background: #4f80ff;
   text-align: center;
   font-size: 50px;
   padding-top: 30px;
-  color: SpringGreen;
+  color: white;
   font-family: "GmarketSansBold";
   }
 .oh {
  font-size: 30px;
- color: darkmagenta;
+ color: #4f80ff;
  text-align: center;
  font-family: "GmarketSansBold";
 }
